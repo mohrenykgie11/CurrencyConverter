@@ -3,6 +3,7 @@ PODS:
   - Charts (3.4.0):
     - Charts/Core (= 3.4.0)
   - Charts/Core (3.4.0)
+  - IQKeyboardManagerSwift (6.5.6)
   - Realm (10.1.4):
     - Realm/Headers (= 10.1.4)
   - Realm/Headers (10.1.4)
@@ -14,6 +15,7 @@ PODS:
 DEPENDENCIES:
   - Alamofire (~> 5.0.0-beta.5)
   - Charts
+  - IQKeyboardManagerSwift
   - RealmSwift
   - SVProgressHUD
   - SwiftyJSON (~> 4.0)
@@ -22,6 +24,7 @@ SPEC REPOS:
   trunk:
     - Alamofire
     - Charts
+    - IQKeyboardManagerSwift
     - Realm
     - RealmSwift
     - SVProgressHUD
@@ -30,11 +33,12 @@ SPEC REPOS:
 SPEC CHECKSUMS:
   Alamofire: 0fe5fd24b4298dc377a6550da7d5f1b30e286fcb
   Charts: 74c9f256eaf0460c0c416522d1cf8c634ea6b286
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
   Realm: 80f4fb2971ccb9adc27a47d0955ae8e533a7030b
   RealmSwift: 0e566ca714edb377bba8ea0811eafcea0b93734e
   SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
   SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
 
-PODFILE CHECKSUM: d1a68eb3abac0a9e0d0fd5c9cf652880f4a1a770
+PODFILE CHECKSUM: 27282566be86ba5b091adbeeaed2fadb3bf94dc4
 
 COCOAPODS: 1.10.0

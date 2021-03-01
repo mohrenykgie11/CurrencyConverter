@@ -22,6 +22,8 @@ target 'CurrencyConverter' do
   
   pod 'RealmSwift'
   
+  pod 'IQKeyboardManagerSwift'
+  
   #loader
   pod 'SVProgressHUD'
   
